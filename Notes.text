@@ -33,3 +33,18 @@ Why we learn PHP?
 => Works with All Servers like Apache, IIS etc.
 => Security // PhP ke ander Multiple  Secured layers system hota hai jo humare website ko kafi secure banata  hai or head proof banata hai.
 => Huge Community.
+
+
+
+////--------------
+
+
+Uses of PHP in Web Development.
+
+. CMS (Content Management System)  // ek adim pannel hota hai jisme hum login karke jitne marzi pages ko create karna chahe uthne pages ko create kar sakte hai or jo existing pages hai usme changes ya editing kar sakte hai without any knowledge of html and css <------------This benefits is not for the developer, its only for the clients.
+. E-Commerce Website /// Jisme hum kuch sales ya purchase karna chahate hai like amazon, flipkart etc
+. Mail server  ///   Mailing server type websites bana sakte hai like gmail, yahoo etc.
+. Chatting System
+. File Storage System  // aaisi website jisme files ka backup rakhna chahate hai like google drive etc.
+. ERP (Enterprise Resourcr Planning) // isme hum erp based software bhi bana sakte hai like jo baddi-2 companies hoti hai usme alag-2 departments hote hai or un sabke liye humme alag ek software banana padta hai or un alag alag software ko hum ek jagha pr manage kar sakte hai.
+. CRM (Customer Relationship Management) // based software bana sakte hai ye basically aam business software hote hai jisme agar humne customer se ko kuch sale kiya hai ya purchase kiya hai ya reporting banana chahate hai ya stock control based software banana chahte hai to ushi ko hum kehte hai crm based
