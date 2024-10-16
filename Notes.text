@@ -88,7 +88,16 @@ Echo ki help se hum message or variable value ko print kr sakte hai.
 
 
 
+-----------------------xxxxxxxxxxxxxxxx-----------------
 
+
+
+
+Variables in Php 
+
+
+=> The variable are storage location or The variables are an abstract storage location // ek toh hoti hai real storage location like bag, jar, bottle etc jisme humne jo store kiya hai ushe hum dekh sakte hai. or dusare hote hai (abstracted storage) location means ki jo kuch na kuch store toh karte hai pr vo hume dikti nhi hai.
+ hum unhe dekh nhi pate hai. 
 
 
 
