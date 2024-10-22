@@ -144,3 +144,24 @@ yeh data milta hai php ko or phir hume us data ke sata jo krna hota hai uska cod
 # or jaise hi vo kaam hota hai toh usko vo response mil jata hai and phir server us kaam ko browser ko Http response ki form mein send kr deta hai 
 
 /////////  AND THIS PROCESS IS KNOWN AS THE INTERACTION OF THE HTML TO PHP //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+///////////////// REQUESTS IN PHP \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+# Basically two types ki request hoti hai 
+
+=> GET Request
+
+(a) Request is visible in the address bar //  GET Request ke ander jo humara data hota hai yeh humesha humare address bar ke ander visible hota hai (adress bar yani jaha pr likha hota hai google.com).
+(b) Less Secure Request   // yeh thoda kam secure hota hai toh hum iske saat sirf vahi kaam krte hai jisme hum data ko khodne ka dar na ho ya data ko simply visible krwa diya jaye toh koi dikkat na ho. jaise songs ki playlist
+(c)       // And mostly hum get request ka use jab karte hai jab hum data ko server se fatch krna hota hai for example jaise hum songs ki playlists mein data ko fatch kr rahe hai
+
+=> POST Request
+
