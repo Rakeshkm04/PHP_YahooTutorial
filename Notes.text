@@ -161,7 +161,12 @@ yeh data milta hai php ko or phir hume us data ke sata jo krna hota hai uska cod
 
 (a) Request is visible in the address bar //  GET Request ke ander jo humara data hota hai yeh humesha humare address bar ke ander visible hota hai (adress bar yani jaha pr likha hota hai google.com).
 (b) Less Secure Request   // yeh thoda kam secure hota hai toh hum iske saat sirf vahi kaam krte hai jisme hum data ko khodne ka dar na ho ya data ko simply visible krwa diya jaye toh koi dikkat na ho. jaise songs ki playlist
-(c)       // And mostly hum get request ka use jab karte hai jab hum data ko server se fatch krna hota hai for example jaise hum songs ki playlists mein data ko fatch kr rahe hai
+(c) Mostly used to fatch data from the server    // And mostly hum get request ka use jab karte hai jab hum data ko server se fatch krna hota hai for example jaise hum songs ki playlists mein data ko fatch kr rahe hai
 
 => POST Request
+
+
+(a) Request is not visible in the address bar  // Post request address bar mein kabhi bhi visible nhi hoti hai.
+(b) Secure  // POST request secure hoti hai as compair to get request or iska use hum jab karte hai jab humme like koi (new koi new data create karna hai ya new registration krna hai ya kuch update krna hai or kuch changes krna hai toh )
+(c) Used to create and Update operations in server.
 
