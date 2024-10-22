@@ -170,3 +170,13 @@ yeh data milta hai php ko or phir hume us data ke sata jo krna hota hai uska cod
 (b) Secure  // POST request secure hoti hai as compair to get request or iska use hum jab karte hai jab humme like koi (new koi new data create karna hai ya new registration krna hai ya kuch update krna hai or kuch changes krna hai toh )
 (c) Used to create and Update operations in server.
 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+
+# Use of action in form..
+
+=> action ka use hota hai ki konsi php file ke ander humme data ko bhejna hai
+=> or action file vo file hoti hai jaha pr humme data ko receive krna hota hai (login.php) file.
