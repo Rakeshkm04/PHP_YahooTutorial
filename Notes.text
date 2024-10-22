@@ -124,3 +124,23 @@ c. Connection close  // jo connection Humne PHP and mySQL ke bich mein banaya th
 
 
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+22/10/2024
+
+
+////////////////////////////////////// HTML TO PHP INTERACTION \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+HTTP request and response 
+
+
+=> Toh aaisa koi tarika nhi hota hai ki jisse html se direct data php mein send kiya ja sake... toh iske liye humme request banani padti hai client se yani (Brower) se server tak ke liye.
+
+# Http request ka kaam hota hai ki humare data ko server tak pahuchana yani ki form mein humara data hai toh vo data server tak http request(like username and password etc data) ki form mein jata hai or phir 
+yeh data milta hai php ko or phir hume us data ke sata jo krna hota hai uska code likh dete hai like ki (user data se login krwana hai ya registeration karwana hai ya data ko delete krwana hai etc.) 
+
+
+# or jaise hi vo kaam hota hai toh usko vo response mil jata hai and phir server us kaam ko browser ko Http response ki form mein send kr deta hai 
+
+/////////  AND THIS PROCESS IS KNOWN AS THE INTERACTION OF THE HTML TO PHP //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
