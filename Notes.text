@@ -180,3 +180,23 @@ yeh data milta hai php ko or phir hume us data ke sata jo krna hota hai uska cod
 
 => action ka use hota hai ki konsi php file ke ander humme data ko bhejna hai
 => or action file vo file hoti hai jaha pr humme data ko receive krna hota hai (login.php) file.
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+////////////////////////////  $_REQUEST ////////////////////////////////////////////////////////////
+
+
+#. What is $_REQUEST ?
+
+=> Yeh php ke ander Super Global Variables Hota hai, Yeh Super Global Variable // note: global variable vo hote hai jinhe hum apne project ke ander kahi pr bhi access kr sakte hai. //
+=> Ishi tarh se Super Global Variable ko bhi hum kahi pr bhi use kr sakte hai but ushe user nhi banata hai, vo already php ke ander pehle se hi bane hue hote hai or // unhi mein se ek hota hai $_REQUEST // or bhi bahut sare hote hai
+
+
+IN simple, jab humme data GET Request ki form mein chahiye hota hai toh hum GET Request ka use krte hai pr jab humme data POST Request ki form mein chahiye hota hai toh hum post request ka use krte hai prr 
+=> jab humme data dono ki form mein chahiye hota hai to hum  //  $_REQUEST // ka use karte haii..
