@@ -39,6 +39,24 @@ c. Connection close  // jo connection Humne PHP and mySQL ke bich mein banaya th
 (A)  Connection karne ke liye humare pass jo function aata hai ushe hum kehte hai [mysqli_connect]. ishe likhne ke bad humme 4 parameter pass karne padte hai.
 
 
-=>  mysqli_connect (Server Name,)// four parameters under mysqli_connect//
+=>  mysqli_connect (Server Name, User Name, Password, Database Name)// four parameters under mysqli_connect//
 
 (a) Agar hum apne local machine pr kaam kr rahe hai yani ki apne laptop ya pc pr toh server name ki jagha hum likhenge [local host] or agar hum kisi online server pr kaam kr rhe hai toh is case mein hum server name ki jagha likhenge apni website ka naam.
+
+(b) phir aata hai humara user name jo ki humare mysql ka name hoga // agar hum local machine pr kaam krte hai toh humesha user name ["root"] rahega but agar server pr kaam krte hai toh user name or password create krna padta hai.
+
+(c) phir aata hai humara password  // password aalag se create krna padtha hai.
+ 
+(d) last mein aata hai humare Database ka naam. // jis naam se humne apna database create kiya hai vahi humme database name mein likhna hota hai.
+
+
+# example of the connection 
+
+ $conn = mysqli_connect("localhost","root","","crud_operation_php") or die("Connection Failed");
+
+
+ note
+ ====
+
+
+or die("")  //
