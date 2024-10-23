@@ -1,0 +1,19 @@
+/////////////////////////   CRUD OPERATION IN PHP /////////////////////////////////
+
+
+#  Jab bhi hum database ke saat php mein koi kaam krna chahate hai toh hum basically uske ander 4 tarike ke kaam kr sakte hai.
+
+1. CREATE
+2. READ
+3. UPDATE
+4. DELETE
+
+yahi 4 kaam hote hai jo hum php ke saat Database ke ander karte hai.
+
+
+# Jab bhi in 4 kaam ko perform karte hai toh hume yeh 3 Step ko follow krna padta hai.
+
+
+
+
+
