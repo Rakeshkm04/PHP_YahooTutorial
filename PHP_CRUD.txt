@@ -14,6 +14,25 @@ yahi 4 kaam hote hai jo hum php ke saat Database ke ander karte hai.
 # Jab bhi in 4 kaam ko perform karte hai toh hume yeh 3 Step ko follow krna padta hai.
 
 
+/////////////////////////// ----------------- ////////////////////////////////////////////////
+
+=>  CRUD Operation in PHP
+
+
+// Jab bhi hume php ke saat mysql ke ander koi bhi kaam krna hota hai toh basically three step ko follow krna padta hai.
+
+
+a. Connection // sabse phle hume connection banana padta hai PHP or mysQl ka.
+
+or jab yeh connection successfully build ho jata hai tab hum apne second step pr jate hai jo ki hai // Run SQL Query //
+
+b. Run SQL Query //  Yeh SQL ki Queries hoti hai jaise run, update, add and delete.
+
+or last process hota hai humara connection ko close karne ka 
+
+c. Connection close  // jo connection Humne PHP and mySQL ke bich mein banaya tha usko hum yaha pr close karte hai last third step mein.
+
+
 
 
 
