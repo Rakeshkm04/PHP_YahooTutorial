@@ -90,6 +90,35 @@ $conn = mysqli_connect("localhost", "root", "", "studentregisteration");
 $sql = "SELECT * FROM student LEFT JOIN studentclass on student.sclass = studentclass.cid";
 
 
+ => $sql = "SELECT * FROM studentregisteration";
+
+ यह SQL क्वेरी को एक स्ट्रिंग के रूप में $sql वेरिएबल में स्टोर कर रही है। इसमें:
+
+=> SELECT * – इसका मतलब है कि सभी कॉलम (फ़ील्ड) को चुनना। * सभी कॉलम का प्रतिनिधित्व करता है।
+
+=> FROM studentregisteration – यह बताता है कि डेटा किस टेबल से लेना है। यहाँ studentregisteration टेबल का नाम है।
+तो इस लाइन का कुल मतलब है कि studentregisteration टेबल से सभी रिकॉर्ड्स को चुना जाए।
+
+
+##### (3)
+
+
+$result = mysqli_query($conn, $sql) or die("Query Unsuccessful");
+
+
+=> $result = mysqli_query($conn, $sql);
+यहाँ mysqli_query() एक PHP फ़ंक्शन है जो MySQL डेटाबेस में एक SQL क्वेरी को निष्पादित करता है।
+
+=> $conn डेटाबेस कनेक्शन को संदर्भित करता है।
++> $sql में वह SQL क्वेरी है जिसे हम निष्पादित करना चाहते हैं।
+इस क्वेरी का परिणाम $result वेरिएबल में स्टोर हो जाएगा।
+
+or die("Query Unsuccessful");
+यदि क्वेरी में कोई समस्या होती है (जैसे कि गलत SQL सिंटैक्स, कनेक्शन समस्या, आदि), तो die() फ़ंक्शन एक एरर मैसेज दिखाएगा – "Query Unsuccessful", और स्क्रिप्ट यहीं रुक जाएगी।
+
+अर्थात्, यह लाइन डेटाबेस में $sql क्वेरी चलाती है और यदि क्वेरी असफल रहती है तो "Query Unsuccessful" संदेश के साथ एरर दिखाती है।
+
+
 # (3) Close Connection
 
 => phir humara 4 step aata hai or vo hai humare connection ko close krna
