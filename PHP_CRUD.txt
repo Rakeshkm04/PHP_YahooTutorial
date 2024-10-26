@@ -52,7 +52,28 @@ c. Connection close  // jo connection Humne PHP and mySQL ke bich mein banaya th
 
 # example of the connection 
 
- $conn = mysqli_connect("localhost","root","","crud_operation_php") or die("Connection Failed");
+ # (1)  $conn = mysqli_connect("localhost","root","","crud_operation_php") or die("Connection Failed");
+
+ //    
+इस लाइन का मतलब है:
+
+$conn = mysqli_connect("localhost", "root", "", "studentregisteration");
+
+=>  इसमें mysqli_connect() PHP का एक फ़ंक्शन है जो MySQL डेटाबेस से कनेक्ट करने के लिए उपयोग होता है। इसमें चार पैरामीटर दिए गए हैं:
+
+=> "localhost" – यह बताता है कि डेटाबेस सर्वर स्थानीय (यानी इसी कंप्यूटर पर) है।
+
+=> "root" – यह MySQL यूजर का नाम है। डिफ़ॉल्ट रूप से, MySQL में root नाम का यूजर होता है जो एडमिनिस्ट्रेटर का काम करता है।
+
+=> "" – यह पासवर्ड के लिए है। अगर पासवर्ड सेट नहीं किया गया है, तो इसे खाली छोड़ सकते हैं।
+
+=> "studentregisteration" – यह डेटाबेस का नाम है जिसमें आप कनेक्ट करना चाहते हैं। इस उदाहरण में डेटाबेस का नाम studentregisteration है।
+तो, इस लाइन का उद्देश्य MySQL डेटाबेस सर्वर से कनेक्शन स्थापित करना है, और यह कनेक्शन $conn वेरिएबल में स्टोर हो जाएगा ताकि इसे आगे के कार्यों में उपयोग किया जा सके।
+
+
+
+
+
 
 
 
