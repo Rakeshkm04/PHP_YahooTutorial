@@ -186,3 +186,47 @@ yeh data milta hai php ko or phir hume us data ke sata jo krna hota hai uska cod
 
 IN simple, jab humme data GET Request ki form mein chahiye hota hai toh hum GET Request ka use krte hai pr jab humme data POST Request ki form mein chahiye hota hai toh hum post request ka use krte hai prr 
 => jab humme data dono ki form mein chahiye hota hai to hum  //  $_REQUEST // ka use karte haii..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////////////// =========  MYSQL TUTORIAL  =========== ////////////////////////////
+
+
+
+# To create a database in MySQL, use the following syntax:
+
+
+=> CREATE DATABASE database_name // employess //;
+
+# Additional Steps
+
+Use the Database: After creating the database, you need to select it for use with:
+
+=> USE employess;
+
+
+Explanation
+
+=> INT, VARCHAR, DECIMAL define data types.
+
+=> NOT NULL ensures the column cannot store NULL values.
+
+=> AUTO_INCREMENT automatically increments the id field for each new record.
+
+=> UNIQUE ensures that all values in the email column are unique.
+
+=> PRIMARY KEY defines the primary key for the table.
+
