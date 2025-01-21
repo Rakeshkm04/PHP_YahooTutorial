@@ -1,5 +1,11 @@
 PHP By Yahoo.
 
+This is the full course and the tutorial of code step by step and in this course we learn lot's of things
+like if else conditions, i mean conditionals statements and object, array and function etc,
+so this tutorial is one of the best tutorial of php by code step by step and we learn lot's of things in this tutorial 
+through the youtube and other tutorial is also help to learn new things about php and the laravel.
+
+
 //------// 
 
 This notes is not in sequence
@@ -231,4 +237,8 @@ Explanation
 => UNIQUE ensures that all values in the email column are unique.
 
 => PRIMARY KEY defines the primary key for the table.
+
+
+
+
 
