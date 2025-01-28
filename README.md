@@ -28,3 +28,7 @@ in this tutorial we learn together lot's of things like if, else if and function
 through the yahoo baba and code step by step youtube channel are used and help through this channels in this tutoral
 and manage you time and furst sure take your time to, learn and making new things in the tutorial.
 
+
+
+and lot's of things and learning to this course and the youtube and github is also a well and 
+good for your coding knowledge.
