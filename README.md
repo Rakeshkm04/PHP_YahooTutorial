@@ -32,3 +32,11 @@ and manage you time and furst sure take your time to, learn and making new thing
 
 and lot's of things and learning to this course and the youtube and github is also a well and 
 good for your coding knowledge.
+
+
+
+This is the new php course or a tutorial, and in this tutorial we learn lot's of things in this course.
+like, function, array, object, conditional statement etc and in the course i suggest and learn lot's of new things in php
+throught the yahoo baba and code step by step youtube channels are used and help through this channels in this tutorial 
+so learn 
+and manage your time and first sure take your time to learning and making new things in this tutorial
