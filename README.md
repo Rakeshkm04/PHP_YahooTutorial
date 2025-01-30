@@ -48,3 +48,9 @@ like the javascript function, array, loop, object, conditional statement and oth
 topics and i suggesst and learn lot's of new things in php through the yahoo baba and code step by step 
 for the youtube channel are used and help throught this channels in this tutorial so 
 learn and manage your time and first sure take your time to learning and making new things in this tutorial
+
+
+
+so this is the new comment in this tutiorial and today's we learn React.js hooks and the main propes and
+the components and in javascipt lear the Virtual Dom to connect with the html and css component to 
+connect and changes in these components.
