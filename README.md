@@ -54,3 +54,6 @@ learn and manage your time and first sure take your time to learning and making 
 so this is the new comment in this tutiorial and today's we learn React.js hooks and the main propes and
 the components and in javascipt lear the Virtual Dom to connect with the html and css component to 
 connect and changes in these components.
+and also view and learn the css library for the future uses inside the website and learning main to redux concept in the 
+react js
+
