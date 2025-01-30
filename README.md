@@ -57,3 +57,9 @@ connect and changes in these components.
 and also view and learn the css library for the future uses inside the website and learning main to redux concept in the 
 react js
 
+
+The main part is the website structure to start and new project learn the folder structure of the webpages
+and the backend save, because it's most important to learn, it's the starting of the 
+project and it's also help in seo 
+
+
