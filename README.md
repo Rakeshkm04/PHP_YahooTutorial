@@ -71,3 +71,9 @@ project and it's also help in seo
 8522074110
 369741
 456678993321
+
+so today i work on indolaser website on staging and in this project i create almost 4 to 5 section and also
+styled all the section but in this website lot's of error are indirectly create buds and in this project 
+i learn lot's of things
+
+
