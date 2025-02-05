@@ -75,5 +75,10 @@ project and it's also help in seo
 so today i work on indolaser website on staging and in this project i create almost 4 to 5 section and also
 styled all the section but in this website lot's of error are indirectly create buds and in this project 
 i learn lot's of things
+new error in this project's are created 
+so, working on this project is very defficult, but i've no choice 
+only choice is only work on this project not the other choice 
+but this project is not a good project for my growth and i'm not learning a single peice
+
 
 
