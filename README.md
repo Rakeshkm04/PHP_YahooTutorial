@@ -81,4 +81,7 @@ only choice is only work on this project not the other choice
 but this project is not a good project for my growth and i'm not learning a single peice
 
 
+and i don't know what i do in this project and only html and css it's not enough for me but i know very well i'm not working hard and not doing workhard
+
+
 
