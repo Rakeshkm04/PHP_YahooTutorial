@@ -89,3 +89,7 @@ Basically, this the html and css project and in this project main language is us
 and i've lot's of trying to changes in this code but i'm not changes in this code
 
 and in this code lot's of bugs and errors in this code. i changes a single component so not changes in the code and other styling is changes and not alligned
+
+and through the css styling this is not to work batter in this field to lear another thing and in this case lot's of things i would like to learn like javascript
+and react.js node js and next js etc and not
+lot's time and guidance i don't know what should i do?
