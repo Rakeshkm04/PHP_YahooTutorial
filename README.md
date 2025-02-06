@@ -87,3 +87,5 @@ and i don't know what i do in this project and only html and css it's not enough
 
 Basically, this the html and css project and in this project main language is used to the html and css
 and i've lot's of trying to changes in this code but i'm not changes in this code
+
+and in this code lot's of bugs and errors in this code. i changes a single component so not changes in the code and other styling is changes and not alligned
