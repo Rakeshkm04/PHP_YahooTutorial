@@ -98,3 +98,4 @@ lot's time and guidance i don't know what should i do?
 
 Basically this is the PHP tutorial for the new begginer and new students and in this course beginners learning is too much faster and learning lot's of things in this coures
 
+And in this course we learn lot's of things like conditional statements, arrays, functions, objects etc and solve multiple questions and our interview prepration and learning lot's of things in this course
