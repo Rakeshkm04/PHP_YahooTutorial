@@ -101,3 +101,7 @@ Basically this is the PHP tutorial for the new begginer and new students and in 
 And in this course we learn lot's of things like conditional statements, arrays, functions, objects etc and solve multiple questions and our interview prepration and learning lot's of things in this course
 
 and also use the git&github to post and comment this course and the projects and in this course we've learn and makes lot's of projects and learning lot's of things in projects.
+
+
+And Makes the project to learn lot's of things and the learning skills is working properly.
+and i don't know this project but yes i know what should i do and do lot's of hardward about my study and learning lot's of things from the starting.
