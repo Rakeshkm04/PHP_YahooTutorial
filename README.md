@@ -93,3 +93,8 @@ and in this code lot's of bugs and errors in this code. i changes a single compo
 and through the css styling this is not to work batter in this field to lear another thing and in this case lot's of things i would like to learn like javascript
 and react.js node js and next js etc and not
 lot's time and guidance i don't know what should i do?
+
+
+
+Basically this is the PHP tutorial for the new begginer and new students and in this course beginners learning is too much faster and learning lot's of things in this coures
+
