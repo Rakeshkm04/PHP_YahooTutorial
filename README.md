@@ -120,3 +120,5 @@ And we are learning lot's of new things like if else conditions , functions, obj
 the main aim is learning lot's of new things and practice of lot's of new things so gain the learning process and learn new 
 and more new things
 
+
+and lot's of functions is verbelly learning and i know the learning process is very fast and gaining lot's of new things so ready for the new tasks and learning new things so ready to quit this job and learning skills and grow for your words and learn lot's of new things
