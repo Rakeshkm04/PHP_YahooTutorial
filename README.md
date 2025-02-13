@@ -127,3 +127,7 @@ and lot's of functions is verbelly learning and i know the learning process is v
 
 
 Finally this is the normal todo list and in this project we learn lot's of new things and to create this project i learn lot's of new things and making this project using the technologies like html, css and javascript and in this project the main technologies used to like html and css and the main is javascript
+
+
+
+and when i start this project to gain knowledge and experience.
