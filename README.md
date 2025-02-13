@@ -105,3 +105,13 @@ and also use the git&github to post and comment this course and the projects and
 
 And Makes the project to learn lot's of things and the learning skills is working properly.
 and i don't know this project but yes i know what should i do and do lot's of hardward about my study and learning lot's of things from the starting.
+
+
+
+
+
+
+
+This is the php tutorial and in this tutorial we learn lot's of new things with the basic of html and css and javascript 
+bascially this language is used to dynamic the static website 
+i.e used to make dynamic the static website using php it's a scripting language.
