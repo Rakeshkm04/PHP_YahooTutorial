@@ -115,3 +115,8 @@ and i don't know this project but yes i know what should i do and do lot's of ha
 This is the php tutorial and in this tutorial we learn lot's of new things with the basic of html and css and javascript 
 bascially this language is used to dynamic the static website 
 i.e used to make dynamic the static website using php it's a scripting language.
+
+And we are learning lot's of new things like if else conditions , functions, objects, arrays etc and now in these courses 
+the main aim is learning lot's of new things and practice of lot's of new things so gain the learning process and learn new 
+and more new things
+
