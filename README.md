@@ -122,3 +122,8 @@ and more new things
 
 
 and lot's of functions is verbelly learning and i know the learning process is very fast and gaining lot's of new things so ready for the new tasks and learning new things so ready to quit this job and learning skills and grow for your words and learn lot's of new things
+
+
+
+
+Finally this is the normal todo list and in this project we learn lot's of new things and to create this project i learn lot's of new things and making this project using the technologies like html, css and javascript and in this project the main technologies used to like html and css and the main is javascript
