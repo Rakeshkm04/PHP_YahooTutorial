@@ -131,3 +131,9 @@ Finally this is the normal todo list and in this project we learn lot's of new t
 
 
 and when i start this project to gain knowledge and experience.
+
+
+
+so this is the php tutorial and in this tutorial we learn lot's of thinks like conditional statement,
+object, functions array and arrow function and lot's of things and i don't know what should, i accept the offer letter or not 
+i think she think to share to all are desitny
