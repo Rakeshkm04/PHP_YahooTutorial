@@ -137,3 +137,5 @@ and when i start this project to gain knowledge and experience.
 so this is the php tutorial and in this tutorial we learn lot's of thinks like conditional statement,
 object, functions array and arrow function and lot's of things and i don't know what should, i accept the offer letter or not 
 i think she think to share to all are desitny
+
+and lot's of things learning i don't know what should i do it's good or not i don't know so please learn and do somethings and correct it for the learnig process and learning in the learnig of the metter in the march learning and implemented lot's of new things and created learn and create new code 
