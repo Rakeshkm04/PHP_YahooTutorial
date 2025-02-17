@@ -145,3 +145,8 @@ and lot's of things learning i don't know what should i do it's good or not i do
 
 hello everyone basically this is the web development course series and in this series
 this this the php course and in this course we are learn lot's of things like object function array and lot's of things etc
+
+and when i start this course i positive strong my mind to do new things and learn and earn the new things and how to use
+these functionlity
+and this series is the learning lesson to learn and earn new things 
+so learn and earn daily
