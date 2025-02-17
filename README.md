@@ -150,3 +150,7 @@ and when i start this course i positive strong my mind to do new things and lear
 these functionlity
 and this series is the learning lesson to learn and earn new things 
 so learn and earn daily
+
+
+earning daily batch and new things to learn and earn the new project by the freelancing and earning new project to learn 
+and earn these kind of these kind of the new projects and learn this projects
