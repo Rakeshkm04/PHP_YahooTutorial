@@ -139,3 +139,9 @@ object, functions array and arrow function and lot's of things and i don't know 
 i think she think to share to all are desitny
 
 and lot's of things learning i don't know what should i do it's good or not i don't know so please learn and do somethings and correct it for the learnig process and learning in the learnig of the metter in the march learning and implemented lot's of new things and created learn and create new code 
+
+
+
+
+hello everyone basically this is the web development course series and in this series
+this this the php course and in this course we are learn lot's of things like object function array and lot's of things etc
